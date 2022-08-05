@@ -5,7 +5,7 @@
   "seller_fee_basis_points": 300,
   "image": "https://raw.githubusercontent.com/InvestonerD/metadata-images/main/420.png",
   "external_url": "https://investonerdragons.com",
-  "edition": 26,
+  "edition": 420,
   "by": "The Investoner Dragons, Inc.",
   "attributes": [
     {
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "imgage.png",
+        "uri": "image.png",
         "type": "image/png"
       }
     ],
