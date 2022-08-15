@@ -1,0 +1,59 @@
+{
+    "name": "Investoner Dragons #736",
+    "symbol": "TID",
+    "description": "2,500 Dragons funding their own brand of cannabis, dispensaries and casino throughout the United States and Canada",
+    "seller_fee_basis_points": 300,
+    "image": "https://raw.githubusercontent.com/InvestonerD/metadata-images/main/736.png",
+    "external_url": "https://investonerdragons.com",
+    "edition": 736,
+    "by": "The Investoner Dragons, Inc.",
+    "attributes": [
+        {
+        "trait_type": "Horns",
+        "value": "2 Type 3"
+        },
+        {
+        "trait_type": "Mouth",
+        "value": "Smile Gray"
+        },
+        {
+        "trait_type": "Horn Base",
+        "value": "2 Gray Up"
+        },
+        {
+        "trait_type": "Eyes",
+        "value": "Dark Chill"
+        },
+        {
+        "trait_type": "Face Item",
+        "value": "None"
+        },
+        {
+        "trait_type": "Nose Items",
+        "value": "Horn"
+        },
+        {
+        "trait_type": "Head Items",
+        "value": "None"
+        },
+        {
+        "trait_type": "Mouth Items",
+        "value": "None"
+        }
+    ],
+    "properties": {
+        "files": [
+        {
+            "uri": "image.png",
+            "type": "image/png"
+        }
+    ],
+        "category": "image",
+        "creators": [
+        {
+            "address": "BM7MWtvS8JtoVF9qWugwrTB3GmkrGZDicYQQLtDa2Xmg",
+            "share": 100
+        }
+        ]
+    }
+}
